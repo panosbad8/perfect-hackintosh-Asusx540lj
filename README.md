@@ -1,2 +1,2 @@
-# perfect-hackintosh-Asusx 540lj
+# Perfect-hackintosh-Asus x540lj
 perfect hackintosh

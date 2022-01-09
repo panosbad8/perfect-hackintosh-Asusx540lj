@@ -13,27 +13,26 @@ perfect hackintosh
   + Intel HD4400 (1536MB of dynamic memory (shared from the system))
   + NVIDIA GeForce 920M 2GB
 - **Network:**
-  + Wifi: Atheros AR9485
+  + Wifi: Dell DW1510
   + Ethernet: Realtek RTL810xE
 - **Audio:** Realtek ALC255
 - **Touchpad:** ELAN 1100 (I2C) 
 - **Storage**:
-  + SSD Samsung SATA 256GB
+  + SSD kingston SATA 256GB
 - **Keyboard**: Chiclet keyboard 
 - **WebCam**: VGA Web Camera
 - **Battery**
 
 # WORKING:
 - [x] **Intel Graphics HD4400**
-- [x] Graphics NVIDIA GeForce 920M **(NOT support now)**
+- [x] Graphics NVIDIA GeForce 920M **(NOT support)**
 - [x] **Sound**
 - [x] **WiFi**
 - [x] Apple Store
 - [x] External USB headphone
 - [x] USB 2.0
 - [x] USB 3.0
-- [x] Adjust brightness
-- [x] Fn feature 
+- [x] Adjust brightnes
 - [x] Sleep power
 - [x] Battery
 - [x] Trackpad
@@ -45,7 +44,7 @@ perfect hackintosh
 - [ ] Personal Hotspot (Not test yet)
 - [x] Power Management and P-States
 - [x] iCloud 
-- [ ] iMessage (Not test yet)
+- [x] iMessage
 - [ ] Airdrop (Not test yet)
 - [ ] AirPlay (Not test yet)
 - [x] iBooks (Not test yet)

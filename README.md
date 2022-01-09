@@ -40,15 +40,15 @@ perfect hackintosh
 - [x] Temporature
 - [x] Disabling discrete graphics GPU with SSDT Patching
 - [x] Ethernet
-- [x] Hardware Acceleration (Not test yet)
+- [x] Hardware Acceleration
 - [ ] Personal Hotspot (Not test yet)
 - [x] Power Management and P-States
 - [x] iCloud 
 - [x] iMessage
-- [ ] Airdrop (Not test yet)
-- [ ] AirPlay (Not test yet)
-- [x] iBooks (Not test yet)
-- [ ] HandOff (Not test yet)
+- [x] Airdrop
+- [x] AirPlay
+- [x] iBooks
+- [x] HandOff
 
 # KNOWN ISSUES
 

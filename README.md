@@ -5,7 +5,7 @@ perfect hackintosh
 
 
 # Asus Vivobook X540LJ
-# Mac OS X 10.15 Catalina
+# Mac OS X 10.14 Mojave
 # Specification
 - **MainBoard:** Asus X540LJ.
 - **Processor:** Intel Core i3-4005U @ 1.7GHz (Haswell)
